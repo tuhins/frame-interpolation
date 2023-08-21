@@ -18,7 +18,7 @@ setup(
         "parameterized==0.8.1",
         "mediapy==1.0.3",
         "scikit-image==0.19.1",
-        "apache-beam==2.34.0",
+        "apache-beam==2.49.0",
         "google-cloud-bigquery-storage==1.1.0",
         "natsort==8.1.0",
         "gdown==4.5.4",
